@@ -13,6 +13,7 @@
 - 👯 I’m looking to collaborate on **Financial-Risk Management**
 
 - 👨‍💻 All of my projects are available at [https://ajaygenuinedoubt.github.io/AJAY-PORTFOLIO/](https://ajaygenuinedoubt.github.io/AJAY-PORTFOLIO/)
+- My Resume is available here:-[https://ajaygenuinedoubt.github.io/Temperature-converter-/](https://ajaygenuinedoubt.github.io/Temperature-converter-/)
 
 - 📝 I regularly write articles on [www.genuinedoubt.blogspot.com](www.genuinedoubt.blogspot.com)
 
